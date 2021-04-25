@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Jaffal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Computer engineering at Beirut Arab University
+- 🌱 I’m currently learning Computer Engineering at Beirut Arab University
 - 💞️ I’m looking to collaborate with web developers
 - 📫 You can contact me via email: mohammadjaffal48@gmail.com
 
